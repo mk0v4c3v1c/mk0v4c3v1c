@@ -46,8 +46,6 @@ Here are the tools and technologies that power my projects:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk0v4c3v1c&show_icons=true&locale=en" alt="mk0v4c3v1c" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk0v4c3v1c&" alt="mk0v4c3v1c" /></p>
-
 
 Feel free to connect or collaborate! 🤝  
 Let’s build something amazing together! 🌟
