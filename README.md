@@ -42,10 +42,11 @@ Here are the tools and technologies that power my projects:
 
 <h3 align="left">Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk0v4c3v1c&show_icons=true&locale=en&layout=compact" alt="mk0v4c3v1c" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk0v4c3v1c&show_icons=true&locale=en" alt="mk0v4c3v1c" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk0v4c3v1c&show_icons=true&locale=en&layout=compact" alt="mk0v4c3v1c" /></p>
+
+---
 
 Feel free to connect or collaborate! 🤝  
 Let’s build something amazing together! 🌟
