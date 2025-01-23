@@ -46,7 +46,6 @@ Here are the tools and technologies that power my projects:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk0v4c3v1c&show_icons=true&locale=en&layout=compact" alt="mk0v4c3v1c" /></p>
 
----
 
 Feel free to connect or collaborate! 🤝  
 Let’s build something amazing together! 🌟
