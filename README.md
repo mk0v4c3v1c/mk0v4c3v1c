@@ -3,7 +3,7 @@
 ## 🌟 **About Me**
 I'm a passionate **MERN Stack Engineer** transitioning into the exciting world of **Machine Learning** and **pure backend development**. With **3 years of experience in the industry** and a **Bachelor's degree in IT**, I strive to continuously evolve and adapt in the ever-changing tech landscape.
 
-This profile is dedicated to my journey in **Machine Learning** and **backend engineering**, showcasing projects in:  
+This profile is dedicated to my journey in some **Python projects**, **Machine Learning** and **backend engineering**, showcasing projects in:  
 - **Python** 🐍  
 - **Node.js** 🌳  
 - **NestJS** 🚀  
