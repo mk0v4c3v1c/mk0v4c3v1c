@@ -5,9 +5,6 @@ I'm a passionate **MERN Stack Engineer** transitioning into the exciting world o
 
 This profile is dedicated to my journey in some **Python projects**, **Machine Learning** and **backend engineering**, showcasing projects in:  
 - **Python** 🐍  
-- **Node.js** 🌳  
-- **NestJS** 🚀  
-- **Express.js** 🛠️  
 - **Golang (future focus)** 🔵  
 - **ML tools & frameworks** 🤖  
 
@@ -35,7 +32,7 @@ Here are the tools and technologies that power my projects:
 
 ## 🎯 **Goals**
 🔹 Dive deeper into **Machine Learning** and build impactful projects.  
-🔹 Master **Golang** and contribute to high-performance backend systems.  
+🔹 Master **Python & Golang** and contribute to high-performance backend systems.  
 🔹 Stay consistent and keep sharing my journey.
 
 ---
