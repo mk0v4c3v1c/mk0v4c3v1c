@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to my GitHub profile!
 
 ## 🌟 **About Me**
-I'm a passionate **MERN Stack Engineer** transitioning into the exciting world of **Machine Learning** and **pure Backend development**. With **3 years of experience in the industry** and a **Bachelor's degree in IT**, I strive to continuously evolve and adapt in the ever-changing tech landscape.
+I'm a passionate **MERN Stack Engineer** transitioning into the exciting world of **Machine Learning** and **pure Backend development**. With **half decade of experience in the industry** and a **Bachelor's degree in IT**, I strive to continuously evolve and adapt in the ever-changing tech landscape.
 
 This profile is dedicated to my journey in some **Python projects**, **Machine Learning** and **Backend engineering**, showcasing projects in:  
 - **Python** 🐍  
